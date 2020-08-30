@@ -1,0 +1,358 @@
+/* contact page css */
+
+
+.cpBanner {
+    background: url(https://templates.envytheme.com/finix/default/assets/img/page-title/bg.jpg);
+    height: 400px;
+    background-position: center 60%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: #ffffffc4;
+    background-blend-mode: color;
+    text-align: center;
+}
+
+.cpBanner h2 {
+    padding-top: 151px;
+    font-size: 43px;
+}
+
+.cpBanner p {
+    font-size: 18px;
+    font-weight: 500;
+    color: #000000a6;
+}
+
+.cpBanner p a {
+    font-weight: 500;
+    color: #e83b3e;
+}
+
+/* contact page form css */
+
+.cpForm {
+    padding: 100px 0px;
+}
+
+.cpFHeader {
+    padding-bottom: 60px;
+}
+
+.cpFHeader h4 {}
+
+.cpFHeader h2 {
+    width: 45%;
+    margin: auto;
+    font-size: 40px;
+}
+
+.cpFormLeft {
+    margin-left: 142px;
+}
+
+.cpFormLeft form {}
+
+.cpFormLeft form h2 {
+    font-size: 28px;
+}
+
+.cpFormLeft form ul {
+    padding: 0;
+    list-style: none;
+    padding-top: 9px;
+}
+
+.cpFormLeft form ul li {
+    width: 100%;
+    padding: 8px 0;
+}
+
+.cpFormLeft form ul li p {
+    margin: 0;
+    font-size: 16px;
+    font-weight: 500;
+    color: #000000ab;
+    padding-bottom: 8px;
+}
+
+.cpFormLeft form ul li textarea {
+    width: 97%;
+    padding: 100px 10px;
+    padding-top: 10px;
+    border: 1px solid #0000004a;
+}
+
+.cpFormLeft form ul li input {
+    width: 97%;
+    padding: 15px 10px;
+    border: 1px solid #0000004a;
+}
+
+.cpFormLeft form ul li ul {
+    display: flex;
+}
+
+.cpFormLeft form ul li ul li {
+    width: 100%;
+    padding: 0;
+}
+
+.cpFormLeft form ul li ul li p {}
+
+.cpFormLeft form ul li ul li input {
+    width: 94%;
+}
+
+.cpFormRight {}
+
+.cpFormRight h2 {
+    font-size: 28px;
+}
+
+.cpFormRight ul {
+    padding: 0;
+    list-style: none;
+    padding-top: 17px;
+}
+
+.cpFormRight ul li {
+    display: flex;
+    padding: 15px 0;
+}
+
+.cpFormRight ul li span {}
+
+.cpFormRight ul li span i {
+    color: #e83b3e;
+    width: 55px;
+    font-size: 31px;
+}
+
+.cpFormRLiText {}
+
+.cpFormRLiText ul {
+    padding-top: 0;
+}
+
+.cpFormRLiText ul li {
+    padding: 0;
+}
+
+.cpFormRLiText ul li p {
+    width: 150px;
+    margin: 0;
+}
+
+.cpFormRLiText h3 {
+    font-size: 21px;
+}
+
+.cpFormRLiText p {
+    width: 300px;
+    color: #0000008f;
+    margin: 0;
+}
+
+.cpFormRLiText a {
+    color: #0000008f;
+    display: block;
+    transition: .4s;
+}
+
+
+
+.cpFormRLiText a:hover {
+    color: #e83b3e;
+  }
+
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
